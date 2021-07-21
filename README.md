@@ -14,6 +14,8 @@ sets from a known situation and computing the estimator for each data set.
 
 See an example in the attached pdf
 
+[SimulationExample.pdf](https://github.com/IsabelManzaneque/MonteCarlo_simulation_tool/files/6858659/SimulationExample.pdf)
+
 ## Technologies
 Project is created with:
 * R 4.1.0
