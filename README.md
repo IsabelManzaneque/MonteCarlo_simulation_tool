@@ -12,7 +12,7 @@ properties of estimators is by Monte Carlo simulation. The objective is to appro
 sampling distribution of an estimator by generating some large number independent data
 sets from a known situation and computing the estimator for each data set.
 
-See an example in the attached pdf
+See example below
 
 [SimulationExample.pdf](https://github.com/IsabelManzaneque/MonteCarlo_simulation_tool/files/6858659/SimulationExample.pdf)
 
